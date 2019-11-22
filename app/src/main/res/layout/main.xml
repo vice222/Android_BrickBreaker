@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ca.yorku.eecs.mack.demotiltballvice9608.RollingBallPanel
+        android:id="@+id/rollingballpanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <io.github.controlwear.virtual.joystick.android.JoystickView
+        android:id="@+id/joystickView"
+        android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="119dp"
+        android:layout_marginBottom="4dp" />
+
+</RelativeLayout>

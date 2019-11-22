@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/virtualjoystick-1.10.1.aar/bb69e3f7bf2ef77e0c1a53fb16c7c554/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta3] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-beta3.aar/8b5730b4202c017657ff0c2384da5baa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/85a23778065652022f517b7499370556/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3aa2d10b7bf1a33827cfbbca8ba1c844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/321c434360f58858d0835b511681fafa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65fee1d7098d79c1c8e8f1021c99300a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a43812ea068c33e9469cc0fd405fdd4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/960f2a088b90a410adf68f11f85af2c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/def4509f32d22562ba0f99cdf19b0973/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8cef08587e73a69ac50f36e26cf419a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/220cf75607f06e5c94777311dfd74857/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bca8b335788e476f2649b9dcb65a1514/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f08f48cec6fba477d6120cdcaf301f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/89d6f182d5b4c0d6c6370fcdf52f5ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ee2af2568e9454c3071f0fc396bc2069/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edc62ba311c7af0e13da7a825f5b70be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8c48b250f0e7c707e125d9383f96c473/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3a047f792b18def5543d066b5686fd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2279c62899bd979eb3fbbf15e4f06a86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8260d1a2512d27a6a12758d59456f2b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f1b537358ebef94605710529adba35a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bd3505453c130922a1c77b6d3ff1f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5467f3b33976cbe9323a945faedf33b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3423e5c810d06801c36bc8501c69b424/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb56f32457880fe0129d69893c4ea0d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e61e036ea5b716ad9945248b760a789b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/211384178aec9110dd44c59e6d032b74/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:7:5-82
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta3] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-beta3.aar/8b5730b4202c017657ff0c2384da5baa/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta3] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-beta3.aar/8b5730b4202c017657ff0c2384da5baa/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8c48b250f0e7c707e125d9383f96c473/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8c48b250f0e7c707e125d9383f96c473/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:13:9-67
+activity#ca.yorku.eecs.mack.demotiltballvice9608.DemoTiltBallSetup
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:15:13-85
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:17:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:18:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:21:27-74
+activity#ca.yorku.eecs.mack.demotiltballvice9608.DemoTiltBallvice9608Activity
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:24:9-27:83
+	android:label
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:27:13-71
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:25:13-96
+activity#ca.yorku.eecs.mack.demotiltballvice9608.Result
+ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:28:9-30:70
+	android:label
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml:29:13-74
+uses-sdk
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/virtualjoystick-1.10.1.aar/bb69e3f7bf2ef77e0c1a53fb16c7c554/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/virtualjoystick-1.10.1.aar/bb69e3f7bf2ef77e0c1a53fb16c7c554/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta3] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-beta3.aar/8b5730b4202c017657ff0c2384da5baa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta3] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-beta3.aar/8b5730b4202c017657ff0c2384da5baa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/85a23778065652022f517b7499370556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/85a23778065652022f517b7499370556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3aa2d10b7bf1a33827cfbbca8ba1c844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3aa2d10b7bf1a33827cfbbca8ba1c844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/321c434360f58858d0835b511681fafa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/321c434360f58858d0835b511681fafa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65fee1d7098d79c1c8e8f1021c99300a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65fee1d7098d79c1c8e8f1021c99300a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a43812ea068c33e9469cc0fd405fdd4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a43812ea068c33e9469cc0fd405fdd4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/960f2a088b90a410adf68f11f85af2c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/960f2a088b90a410adf68f11f85af2c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/def4509f32d22562ba0f99cdf19b0973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/def4509f32d22562ba0f99cdf19b0973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8cef08587e73a69ac50f36e26cf419a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f8cef08587e73a69ac50f36e26cf419a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/220cf75607f06e5c94777311dfd74857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/220cf75607f06e5c94777311dfd74857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bca8b335788e476f2649b9dcb65a1514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bca8b335788e476f2649b9dcb65a1514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f08f48cec6fba477d6120cdcaf301f1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f08f48cec6fba477d6120cdcaf301f1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/89d6f182d5b4c0d6c6370fcdf52f5ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/89d6f182d5b4c0d6c6370fcdf52f5ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ee2af2568e9454c3071f0fc396bc2069/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ee2af2568e9454c3071f0fc396bc2069/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edc62ba311c7af0e13da7a825f5b70be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edc62ba311c7af0e13da7a825f5b70be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b0f81707dd6ca0716a437fd68e60b9e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8c48b250f0e7c707e125d9383f96c473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8c48b250f0e7c707e125d9383f96c473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3a047f792b18def5543d066b5686fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3a047f792b18def5543d066b5686fd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2279c62899bd979eb3fbbf15e4f06a86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2279c62899bd979eb3fbbf15e4f06a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8260d1a2512d27a6a12758d59456f2b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8260d1a2512d27a6a12758d59456f2b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f1b537358ebef94605710529adba35a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f1b537358ebef94605710529adba35a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bd3505453c130922a1c77b6d3ff1f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bd3505453c130922a1c77b6d3ff1f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5467f3b33976cbe9323a945faedf33b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5467f3b33976cbe9323a945faedf33b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3423e5c810d06801c36bc8501c69b424/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3423e5c810d06801c36bc8501c69b424/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb56f32457880fe0129d69893c4ea0d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb56f32457880fe0129d69893c4ea0d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e61e036ea5b716ad9945248b760a789b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e61e036ea5b716ad9945248b760a789b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/211384178aec9110dd44c59e6d032b74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zianliu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/211384178aec9110dd44c59e6d032b74/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zianliu/Downloads/Demo_Project_vice9608/app/src/main/AndroidManifest.xml
